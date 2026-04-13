@@ -56,7 +56,7 @@ CosmoSim/
 
 ## Live Demo
 
-https://mahekk-hub.github.io/Cosmosim/
+https://mahekk-hub.github.io/Cosmosim
 
 ---
 
